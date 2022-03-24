@@ -216,7 +216,7 @@ War as Daily Life
 
 \[A\]
 
-Beinin, Joel, and Lisa Hajjar. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Palestine, Israel and the Arab-Israeli Conflict, A Primer." (PDF)](https://merip.org/palestine-israel-primer/), Middle East Research and Information Project.
+Beinin, Joel, and Lisa Hajjar. ["Palestine, Israel and the Arab-Israeli Conflict, A Primer." (PDF)](https://merip.org/palestine-israel-primer/), Middle East Research and Information Project.
 
 [Map of Israeli settlements in West Bank](http://archive.peacenow.org/map.php), the Americans for Peace Now Map Project.
 
